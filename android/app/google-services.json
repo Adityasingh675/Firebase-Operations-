@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580717653280",
+    "firebase_url": "https://journal-app-3669d.firebaseio.com",
+    "project_id": "journal-app-3669d",
+    "storage_bucket": "journal-app-3669d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580717653280:android:e50c92b2757ea5073ffb45",
+        "android_client_info": {
+          "package_name": "com.aditya.journal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580717653280-m5vnjef77gge0ohamm996mit5c28vfti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6pC0DcuHOlF1YdyJ-ygTm9ydA0WPOGt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580717653280-m5vnjef77gge0ohamm996mit5c28vfti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
